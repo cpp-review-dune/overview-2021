@@ -46,6 +46,13 @@ header-includes:
 
 - [introductory-review](https://github.com/cpp-review-dune/introductory-review) (Wed Mar 18 00:17:00 CET 2021).
 
+**Nueva página web:**
+
+- [https://cpp-review-dune.github.io/introductory-review](https://cpp-review-dune.github.io/introductory-review)
+- GitHub Classroom [https://classroom.github.com/classrooms/80859639-c-review-dune](https://classroom.github.com/classrooms/80859639-c-review-dune)
+- [https://sourceforge.net/projects/dune-archiso](https://sourceforge.net/projects/dune-archiso)
+- [https://endeavouros.com](https://endeavouros.com) (4 formas)
+
 # Abril 2021
 
 **Nuevo repositorio:** `dune-basics`
@@ -60,7 +67,7 @@ header-includes:
 
 **Nuevo repositorio:** `proyecto_suelos`
 
-- [Inicio de la traducción de HDNUM y proyecto suelos](https://github.com/cpp-review-dune/dune-book) (Sun May 9 15:50:30 CET 2021).
+- [Inicio de la traducción de HDNUM y proyecto suelos](https://github.com/cpp-review-dune/proyecto_suelos) (Sun May 9 15:50:30 CET 2021).
 
 # Junio 2021
 
@@ -171,3 +178,11 @@ Manuales:
 - https://ctan.dcc.uchile.cl/macros/latex/contrib/beamer/doc/beameruserguide.pdf
 - https://pandoc.org/MANUAL.pdf
 -->
+
+[](https://github.com/samuelburbulla/dune-mmesh/issues/3)
+[](https://launchpadlibrarian.net/83776282/fenics-book-2011-10-27-final.pdf)
+[](https://www.comsol.de)
+
+# Agenda
+
+- [C++]().
