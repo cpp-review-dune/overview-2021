@@ -39,8 +39,8 @@ header-includes:
 
 # Marzo 2021
 
-- Inicio del curso con Rubén, Miguel, Alessandri, Daniel, Alicia, Jhon, Santiago (Mon Mar 8 15:00:00 CET 2021).
-- Fin del curso con Rubén, Miguel, Alessandri, Daniel, Alicia, Jhon, Santiago (Fri Mar 12 15:00:00 CET 2021).
+- Inicio del curso con Rubén, Miguel, Alessandri, Daniel, Alicia, John, Santiago (Mon Mar 8 15:00:00 CET 2021).
+- Fin del curso con Rubén, Miguel, Alessandri, Daniel, Alicia, John, Santiago (Fri Mar 12 15:00:00 CET 2021).
 
 **Nuevo repositorio:** `introductory-review`
 
