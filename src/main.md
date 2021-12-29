@@ -4,7 +4,7 @@ title:
 lang:
   - es
 author:
-  - Jhon Leal$^{1}$
+  - John Leal$^{1}$
   - Carlos Aznarán$^{2}$
   - Daniel Camacho$^{3}$
 institute:
