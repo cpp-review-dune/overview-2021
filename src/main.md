@@ -186,3 +186,5 @@ Manuales:
 # Agenda
 
 - [C++]().
+
+$\sin \varphi$
