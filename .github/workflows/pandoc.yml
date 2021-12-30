@@ -36,9 +36,9 @@ jobs:
           options: -v ${{github.workspace}}:/work
           shell: bash
           run: |
-            sudo pacman -Syyuq pandoc texlive-latexextra texlive-core ttf-fira-code --needed --noconfirm && cd 
+            sudo pacman -Syyuq pandoc texlive-latexextra texlive-core ttf-fira-code --needed --noconfirm &&
             pandoc /work/src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf && mkdir -p public && mv main.pdf public
-            ls public
+            ls -l public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
