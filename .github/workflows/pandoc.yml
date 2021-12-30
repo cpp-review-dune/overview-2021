@@ -37,8 +37,10 @@ jobs:
           shell: bash
           run: |
             sudo pacman -Syyuq pandoc texlive-latexextra texlive-core ttf-fira-code --needed --noconfirm
+            sudo chown -R gitpod:gitpod /work
             cd /work && ls -l
-            sudo pandoc src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o public/main.pdf
+            pandoc src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf
+            mkdir -p public && mv main.pdf public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
