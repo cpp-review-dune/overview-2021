@@ -270,5 +270,3 @@ Enlaces:
 $$
 \int\widehat{f}=0.
 $$
-
-$\sin\varphi$.

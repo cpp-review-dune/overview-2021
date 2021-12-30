@@ -37,11 +37,11 @@ jobs:
           shell: bash
           run: |
             sudo pacman -Syyu pandoc texlive-latexextra texlive-core ttf-fira-code --needed --noconfirm
-            cd /work && pandoc src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf
+            cd /work && sudo pandoc src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf
 
       - name: Check pdf files
         run: |
-          sudo find /work -type f -name "*.pdf" -exec file -- {} + | grep -q ' PDF '
+          find /work -type f -name "*.pdf" -exec file -- {} + | grep -q ' PDF '
 
       - name: "Tar files"
         run: |
