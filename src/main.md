@@ -205,6 +205,10 @@ Inicio del estudio de [AMDiS Workshop 2021](https://amdis.readthedocs.io/en/late
 
 # Diciembre 2021
 
+## \emoji{file-folder} Nuevo repositorio
+
+- [dune-adapter](https://github.com/precice/dune-adapter), preCICE-adapter for DUNE, a modular toolbox for solving partial differential equations (Tue Dec 7 08:31:00 CET 2021).
+
 [Gitpod soporta distribuciones Linux basadas en libc que incluye Arch Linux](https://twitter.com/csweichel/status/1470312576915550212) (Mon Dec 13 09:40:00 CET 2021).
 
 ## \emoji{package} Nuevo lanzamiento (downstream) `python-pyprecice`
@@ -241,6 +245,7 @@ int main(int argc, char** argv[])
 3. [DuMux, DUNE for Multi-{Phase, Component, Scale, Physics, …} flow and transport in porous media](https://dumux.org).
 4. [AMDiS, Adaptive Multi-Dimensional Simulations](https://amdis.readthedocs.io).
 5. [Python bindings for the DUNE-FEM](https://www.dune-project.org/sphinx/content/sphinx/dune-fem).
+6. [Simulation Software Engineering](https://simulation-software-engineering.github.io/homepage)
 
 <!--
 Manuales:
