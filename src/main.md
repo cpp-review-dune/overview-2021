@@ -223,9 +223,6 @@ Inicio del estudio de [AMDiS Workshop 2021](https://amdis.readthedocs.io/en/late
 
 <!-- # Fragile slide {.fragile}
 
-- What is SCM?
-  - Source Control Management/Manager
-
 ```cpp
 #include <iostream>
 

@@ -36,7 +36,7 @@ jobs:
           options: -v ${{github.workspace}}:/work
           shell: bash
           run: |
-            yay -Syyuq pandoc texlive-latexextra texlive-core ttf-fira-code noto-fonts-emoji-apple --needed --noconfirm && sudo chown -R gitpod:gitpod /work && cd /work && pandoc src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf
+            yay -Syyuq pandoc texlive-latexextra texlive-core ttf-fira-code noto-fonts-emoji-apple --needed --noconfirm && sudo chown -R builder:builder /work && cd /work && pandoc src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf
             mkdir -p public && mv main.pdf public
 
       - name: Deploy
