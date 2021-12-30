@@ -268,5 +268,5 @@ Enlaces:
 - Redo [IWR Course 2021](https://gitlab.dune-project.org/dune-course/iwr-course-2021) a.k.a `pdelab-tutorials-2021`.
 
 $$
-\int_{\Omega}\widehat{f}=0.
+\int_{\Omega}\widehat{f}=1.
 $$
