@@ -220,7 +220,6 @@ Inicio del estudio de [AMDiS Workshop 2021](https://amdis.readthedocs.io/en/late
 - [overview-2021](https://github.com/cpp-review-dune/overview-2021) (Wed Dec 29 20:24:00 CET 2021).
 
 <!-- Reunión con Rubén a las Xpm el Y de enero -->
-
 <!-- # Fragile slide {.fragile}
 
 ```cpp
