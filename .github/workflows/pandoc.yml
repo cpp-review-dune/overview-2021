@@ -37,15 +37,10 @@ jobs:
           shell: bash
           run: |
             sudo pacman -Syyu pandoc texlive-latexextra texlive-core ttf-fira-code --needed --noconfirm && cd 
-            pandoc /work/src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf
-            ls
-      - name: "Tar files"
-        run: |
-          mkdir -p docs/public
-          mv *.pdf docs/public
+            pandoc /work/src/main.md -t beamer -V lang=es --pdf-engine=lualatex -o main.pdf && mkdir -p public && mv main.pdf public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: docs/public
+          publish_dir: public
