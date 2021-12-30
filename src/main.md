@@ -82,6 +82,14 @@ header-includes:
 
 > Link: https://conan.iwr.uni-heidelberg.de/events/dune-course_2021
 
+## \emoji{file-folder} Nuevo repositorio
+
+- \emoji{spouting-whale} [dune-archiso](https://github.com/carlosal1015/dune-archiso) (Sun Feb 14 17:58:00 CET 2021).
+
+## \emoji{optical-disk} Nuevo SourceForge
+
+- [dune-archiso](https://sourceforge.net/projects/dune-archiso) (Mon Feb 15 04:56:40 CET 2021).
+
 # Febrero 2021
 
 - \emoji{e-mail} Dune/PDELab Course 2021 Acceptance Notice (Peru-specific version) (Wed Feb 24 17:55:34 CET 2021).
@@ -110,20 +118,23 @@ header-includes:
 ## \emoji{file-folder} Nuevo repositorio
 
 - \emoji{spouting-whale} [introductory-review](https://github.com/cpp-review-dune/introductory-review) (Wed Mar 18 00:17:00 CET 2021).
+- \emoji{spouting-whale} [dune-archiso](https://gitlab.com/dune-archiso) (Tue Mar 23 05:23:00 CET 2021).
 
 ## Páginas web
 
 - \emoji{satellite-antenna} [introductory-review](https://cpp-review-dune.github.io/introductory-review)
-- \emoji{school} [GitHub Classroom](https://classroom.github.com/classrooms/80859639-c-review-dune)
-- \emoji{optical-disk} [dune-archiso](https://sourceforge.net/projects/dune-archiso)
 - \emoji{desktop-computer} [Endeavour OS](https://endeavouros.com)
-<!-- Tenemos cuatro formas de correr Dune -->
+
+<!--
+Tenemos cuatro formas de correr Dune
+-->
 
 # Abril 2021
 
 ## \emoji{file-folder} Nuevo repositorio
 
 - \emoji{spouting-whale} [dune-basics](https://github.com/cpp-review-dune/dune-basics) (Mon Apr 5 17:17:00 CET 2021).
+- \emoji{school} [GitHub Classroom](https://classroom.github.com/classrooms/80859639-c-review-dune) (Wed Apr 7 16:36:00 CET 2021).
 
 # Mayo 2021
 
@@ -141,7 +152,15 @@ header-includes:
 
 - [biblioteca](https://github.com/cpp-review-dune/biblioteca) (Fri Jun 12 00:21:00 CET 2021).
 
+:::::::::::::: {.columns align=center totalwidth=8em}
+::: {.column width="70%" align=center}
+
 Inicio del estudio de [Scientific Programming with C++ in Summer Term 2021](https://gitlab.math.tu-dresden.de/teaching/scprog/so2021) (Fri Jun 25 23:38:00 CET 2021).
+:::
+::: {.column width="30%" align=center}
+\includegraphics[width=0.3\paperwidth]{src/scientificprogramming.png}
+:::
+::::::::::::::
 
 # Julio 2021
 
@@ -172,7 +191,15 @@ Inicio del estudio de [Scientific Programming with C++ in Summer Term 2021](http
 
 - [Dune 2.8.0 Released](https://lists.dune-project.org/pipermail/dune-devel/2021-September/002815.html) (Mon Sep 6 11:00:09 CET 2021).
 
+:::::::::::::: {.columns align=center totalwidth=8em}
+::: {.column width="65%" align=center}
+
 Inicio del estudio de [AMDiS Workshop 2021](https://amdis.readthedocs.io/en/latest/workshop/2021) (Fri Sep 18 02:03:00 CET 2021).
+:::
+::: {.column width="35%" align=center}
+\includegraphics[width=0.35\paperwidth]{src/workshop.png}
+:::
+::::::::::::::
 
 ## \emoji{package} Nuevo lanzamiento (downstream) `dune-common`
 
@@ -259,14 +286,14 @@ Enlaces:
 
 ## Modular approach
 
-1. Study C++ 17/20, solve exercises from scientific programming.
-2. Study math theory, solve exercises.
-3. Study simulations.
+1. Study C++ 17/20, solve exercises from scientific programming (1 month).
+2. Study math theory, solve exercises (1 month).
+3. Study simulations (1 month).
 4. Rehacer 1, 2 y 3.
 
 ## Integral approach
 
-- Redo [IWR Course 2021](https://gitlab.dune-project.org/dune-course/iwr-course-2021) a.k.a `pdelab-tutorials-2021`.
+- Redo [IWR Course 2021](https://gitlab.dune-project.org/dune-course/iwr-course-2021) a.k.a. `pdelab-tutorials-2021`.
 
 $$
 \int_{\Omega}\widehat{f}=1.
